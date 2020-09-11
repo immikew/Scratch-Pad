@@ -15,9 +15,11 @@ if __name__ == "__main__":
 
 
     # WAGE CALCULATOR
-    
+
     # prompt user for their hourly wage
 
     # prompt user for number of hours they worked
 
     # calculate wage based on rate * hours
+
+    BaseClass = 1
