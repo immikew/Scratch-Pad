@@ -22,4 +22,4 @@ if __name__ == "__main__":
 
     # calculate wage based on rate * hours
 
-    BaseClass = 1
+    
